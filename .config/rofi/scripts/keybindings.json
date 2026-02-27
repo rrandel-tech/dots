@@ -1,0 +1,48 @@
+{
+  "Applications": {
+    "Super + Return": "Terminal (Kitty)",
+    "Super + D": "App Launcher (Rofi)",
+    "Super + B": "Browser (Firefox)",
+    "Super + E": "File Manager (Nautilus)"
+  },
+  "Window Management": {
+    "Super + W": "Close Window",
+    "Super + V": "Toggle Floating",
+    "Super + J": "Toggle Split",
+    "Super + P": "Pseudo (Dwindle)",
+    "Super + Arrow Keys": "Move Focus",
+    "Super + Left Mouse Drag": "Move Window",
+    "Super + Right Mouse Drag": "Resize Window"
+  },
+  "Workspaces": {
+    "Super + 1-0": "Switch to Workspace 1-10",
+    "Super + Shift + 1-0": "Move Window to Workspace 1-10",
+    "Super + Scroll Up/Down": "Next/Previous Workspace",
+    "Super + S": "Toggle Scratchpad",
+    "Super + Shift + S": "Move to Scratchpad"
+  },
+  "Screenshots": {
+    "Super + F12": "Screenshot Screen (eDP-1)",
+    "Super + Shift + F12": "Screenshot Region (Satty)"
+  },
+  "System": {
+    "Super + L": "Lock Screen (Hyprlock)",
+    "Super + M": "Exit Hyprland",
+    "Ctrl + Alt + Delete": "Power Menu (Wlogout)",
+    "Super + A": "Toggle Notifications (SwayNC)",
+    "Super + Ctrl + Shift + A": "Reload Notifications",
+    "Super + H": "Color Picker (Hyprpicker)",
+    "Super + R": "Reload Waybar"
+  },
+  "Media & Functions": {
+    "F1": "Toggle Volume Mute",
+    "F2": "Decrease Volume",
+    "F3": "Increase Volume",
+    "F4": "Toggle Microphone Mute",
+    "F5": "Decrease Brightness",
+    "F6": "Increase Brightness",
+    "F9": "Previous Track",
+    "F10": "Play/Pause",
+    "F11": "Next Track"
+  }
+}

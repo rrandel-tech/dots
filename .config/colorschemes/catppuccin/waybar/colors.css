@@ -1,0 +1,39 @@
+/* ============================= */
+/*   Catppuccin Mocha - Waybar   */
+/* ============================= */
+
+/* === Backgrounds === */
+@define-color bg-canvas   #1e1e2e; /* Base */
+@define-color bg-surface  #181825; /* Mantle */
+@define-color bg-elevated #313244; /* Surface0 */
+@define-color bg-overlay  #45475a; /* Surface1 */
+
+/* === Text === */
+@define-color text-primary   #cdd6f4; /* Text */
+@define-color text-secondary #bac2de; /* Subtext1 */
+@define-color text-muted     #a6adc8; /* Subtext0 */
+@define-color text-inverse   #1e1e2e; /* Base */
+@define-color text-on-accent #1e1e2e; /* Base */
+
+/* === Brand / Accent === */
+@define-color accent-primary #cba6f7; /* Mauve */
+@define-color accent-success #a6e3a1; /* Green */
+@define-color accent-warning #f9e2af; /* Yellow */
+@define-color accent-danger  #f38ba8; /* Red */
+@define-color accent-info    #89dceb; /* Sky */
+
+/* === Borders === */
+@define-color border-subtle  #313244; /* Surface0 */
+@define-color border-default #45475a; /* Surface1 */
+@define-color border-strong  #585b70; /* Surface2 */
+@define-color border-focus   #cba6f7; /* Mauve */
+
+/* === Effects === */
+/* Waybar doesn't support CSS variables for box-shadow via @define-color,
+   so shadows are typically applied directly in style.css if needed. */
+
+/* === States === */
+@define-color bg-hover    #313244; /* Surface0 */
+@define-color bg-active   #45475a; /* Surface1 */
+@define-color bg-disabled #181825; /* Mantle */
+@define-color text-disabled #6c7086; /* Overlay0 */
